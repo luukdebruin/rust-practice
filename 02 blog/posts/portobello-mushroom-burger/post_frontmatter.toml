@@ -1,0 +1,8 @@
+title = 'Portobello Mushroom Burger'
+file_name = 'portobello-mushroom-burger'
+description = 'A nice burger'
+tags = ["burger", "main"]
+posted = '22/08/2022'
+estimated_reading_time = 5
+author = 'Luuk de Bruin'
+order = 1

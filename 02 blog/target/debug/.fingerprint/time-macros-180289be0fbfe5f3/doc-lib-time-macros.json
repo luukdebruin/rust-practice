@@ -1,0 +1,1 @@
+{"rustc":16933089952354233041,"features":"[\"formatting\", \"parsing\"]","target":5102302769937104868,"profile":13273598295226313782,"path":5381249278009880162,"deps":[[5700623708963281114,"time_core",false,13169327620763455972]],"local":[{"Precalculated":"0.2.5"}],"rustflags":[],"metadata":10711956676462385841,"config":2202906307356721367,"compile_kind":0}

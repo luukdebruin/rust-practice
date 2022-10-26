@@ -1,0 +1,13 @@
+/Users/luukdebruin/Projects/rust-practice/02 blog/target/debug/deps/toml-921336f53d243b5f.rmeta: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/Users/luukdebruin/Projects/rust-practice/02 blog/target/debug/deps/toml-921336f53d243b5f.d: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs
+
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/lib.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/map.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/value.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/datetime.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/ser.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/de.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/tokens.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/macros.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/toml-0.5.9/src/spanned.rs:

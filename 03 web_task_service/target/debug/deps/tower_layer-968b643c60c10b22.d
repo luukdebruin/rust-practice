@@ -1,0 +1,11 @@
+/Users/luukdebruin/Projects/rust-practice/03 web_task_service/target/debug/deps/tower_layer-968b643c60c10b22.rmeta: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/identity.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/layer_fn.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/stack.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/tuple.rs
+
+/Users/luukdebruin/Projects/rust-practice/03 web_task_service/target/debug/deps/libtower_layer-968b643c60c10b22.rlib: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/identity.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/layer_fn.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/stack.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/tuple.rs
+
+/Users/luukdebruin/Projects/rust-practice/03 web_task_service/target/debug/deps/tower_layer-968b643c60c10b22.d: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/identity.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/layer_fn.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/stack.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/tuple.rs
+
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/lib.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/identity.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/layer_fn.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/stack.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/tower-layer-0.3.2/src/tuple.rs:

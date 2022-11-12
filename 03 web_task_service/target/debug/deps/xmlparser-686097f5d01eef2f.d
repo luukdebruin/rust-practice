@@ -1,0 +1,11 @@
+/Users/luukdebruin/Projects/rust-practice/03 web_task_service/target/debug/deps/xmlparser-686097f5d01eef2f.rmeta: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/error.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/stream.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/strspan.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/luukdebruin/Projects/rust-practice/03 web_task_service/target/debug/deps/libxmlparser-686097f5d01eef2f.rlib: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/error.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/stream.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/strspan.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/luukdebruin/Projects/rust-practice/03 web_task_service/target/debug/deps/xmlparser-686097f5d01eef2f.d: /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/lib.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/error.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/stream.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/strspan.rs /Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/lib.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/error.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/stream.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/strspan.rs:
+/Users/luukdebruin/.cargo/registry/src/github.com-1ecc6299db9ec823/xmlparser-0.13.3/src/xmlchar.rs:
